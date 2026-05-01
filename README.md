@@ -1,16 +1,16 @@
-## Hi there 👋
+# سلام، من محمدامینم! 👋
 
-<!--
-**m-amimiot/m-amimiot** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+یه توسعه‌دهنده ۱۷ ساله و عاشق دنیای اینترنت اشیا (IoT) هستم. 
+از اینکه می‌تونم با کد زدن، اشیاء فیزیکی رو کنترل کنم و باهوش‌شون کنم، کیف می‌کنم.
 
-Here are some ideas to get you started:
+## 🛠️ مهارت‌های من
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- **برنامه‌نویسی پایتون**
+- **برنامه‌نویسی C++** برای میکروکنترلرها
+- کار با بردهای **ESP32** و **ESP8266**
+- پیاده‌سازی **پروتکل MQTT** با امنیت **TLS** و کار با بروکر **Mosquitto**
+- طراحی داشبورد با پلتفرم **Node-RED**
+
+## 📫 راه‌های ارتباطی
+
+- 📧 ایمیل: `mohammadaminpc1` at `gmail` dot `com`
